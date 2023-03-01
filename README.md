@@ -22,9 +22,6 @@ Frun is a fully responsive Single page Ecommerce website, <br />Responsive for a
 ![Wren Desktop Demo](./assets/r1.png "Desktop Demo")
 ![Wren Desktop Demo](./assets/r2.png "Desktop Demo")
 
-### Contact
-
-If you want to contact with me you can reach me at
 
 ## <img  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/wifi-gol.gif?raw=true" width="50" height="50" /> Connect with Me
 
