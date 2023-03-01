@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/wren)
-  ![GitHub stars](https://img.shields.io/github/stars/jonycmtt/wren?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/jonycmtt/wren?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/jonycmtt/Frun-Ecommerce-Design)
+  ![GitHub stars](https://img.shields.io/github/stars/jonycmtt/Frun-Ecommerce-Design?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/jonycmtt/Frun-Ecommerce-Design?style=social)
 
   <br />
   <br />
