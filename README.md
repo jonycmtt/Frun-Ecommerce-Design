@@ -7,7 +7,7 @@
   <br />
   <br />
 
-  <h2 align="center">Frun - Single page Ecommerce Website Design</h2>
+  <h2 align="center">Furniture - Single page Ecommerce Website Design</h2>
 
 Furniture is a fully responsive Single page Ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
