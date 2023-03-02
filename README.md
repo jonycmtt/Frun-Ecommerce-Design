@@ -9,7 +9,7 @@
 
   <h2 align="center">Frun - Single page Ecommerce Website Design</h2>
 
-Frun is a fully responsive Single page Ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+Furniture is a fully responsive Single page Ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 <a href="https://frun-ecommerce.netlify.app/"><strong>➥ Live Demo</strong></a>
 
